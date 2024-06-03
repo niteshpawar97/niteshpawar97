@@ -18,10 +18,11 @@
 - 🔭 I’m currently working on **React.js and Node.js projects**
 - 🌱 I’m currently learning **Next.js and Tailwind CSS**
 - 👯 I’m looking to collaborate on **open-source projects**
-- 💬 Ask me about **web development, API integration, Backend development, CI/CD, and database management**
+- 💬 Ask me about **web development, API integration, Backend development, CI/CD, and Database management**
 - 📫 How to reach me: **[nitesh@niketgroup.in](mailto:nitesh@niketgroup.in)**
 - ⚡ Fun fact: **I love coding and exploring new technologies**
 - 🧑‍💻 I am knowledgeable in **PHP, Kotlin, Java, HTML, CSS, JavaScript**
+- 💼 I am a **Full Stack Developer**
 
 ---
 
@@ -51,25 +52,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshpawar97&layout=compact&theme=radical" alt="Nitesh's top languages">
 </p>
 
----
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Understanding React Hooks](https://example.com/understanding-react-hooks)
-- [A Guide to Node.js Express](https://example.com/guide-to-nodejs-express)
-- [Mastering CSS Grid Layout](https://example.com/mastering-css-grid-layout)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ### 📫 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/niteshkadve/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/niteshpawarking"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://dev.to/niteshpawar97"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="https://medium.com/@niteshpawar97"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <!-- <a href="https://dev.to/niteshpawar97"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://medium.com/@niteshpawar97"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> -->
   <a href="https://niketgroup.in"><img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
 
