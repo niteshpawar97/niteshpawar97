@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niteshpawar97/niteshpawar97/master/assets/nitesh.png" width="600" height="300" alt="Developer at work">
+  <img src="https://raw.githubusercontent.com/niteshpawar97/niteshpawar97/master/assets/nitesh.png" height="300" alt="Developer at work">
 </p>
 
 ---
@@ -24,14 +24,14 @@
 - 📫 How to reach me: **[nitesh@niketgroup.in](mailto:nitesh@niketgroup.in)**
 - ⚡ Fun fact: **I love coding and exploring new technologies**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niteshpawar97/niteshpawar97/master/assets/niteshpawar97.gif" width="600" height="300" alt="Developer at work">
+  <img src="https://raw.githubusercontent.com/niteshpawar97/niteshpawar97/master/assets/niteshpawar97.gif"  height="300" alt="Developer at work">
 </p>
 ---
 
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niteshpawar97/niteshpawar97/master/assets/full-stack-1.gif" width="600" height="300" alt="Developer at work">
+  <img src="https://raw.githubusercontent.com/niteshpawar97/niteshpawar97/master/assets/full-stack-1.gif"  height="300" alt="Developer at work">
 </p>
 
 <p align="center">
