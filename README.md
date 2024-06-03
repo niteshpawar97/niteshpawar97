@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/6290720/114232800-8eea0580-9986-11eb-92a3-813d1f9c239f.gif" width="600" height="300" alt="Developer at work">
+  <img src="https://raw.githubusercontent.com/niteshpawar97/niteshpawar97/master/assets/nitesh.png" width="600" height="300" alt="Developer at work">
 </p>
 
 ---
@@ -23,10 +23,16 @@
 - 💬 Ask me about **web development, API integration, Backend development, CI/CD, and Database management**
 - 📫 How to reach me: **[nitesh@niketgroup.in](mailto:nitesh@niketgroup.in)**
 - ⚡ Fun fact: **I love coding and exploring new technologies**
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/niteshpawar97/niteshpawar97/master/assets/niteshpawar97.gif" width="600" height="300" alt="Developer at work">
+</p>
 ---
 
 ### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/niteshpawar97/niteshpawar97/master/assets/full-stack-1.gif" width="600" height="300" alt="Developer at work">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
