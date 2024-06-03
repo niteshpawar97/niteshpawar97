@@ -26,6 +26,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/niteshpawar97/niteshpawar97/master/assets/niteshpawar97.gif"  height="300" alt="Developer at work">
 </p>
+
 ---
 
 ### 🛠️ Languages and Tools
