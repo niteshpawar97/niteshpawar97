@@ -18,7 +18,7 @@
 - 💼 I am a **Full Stack Developer**
 - 🔭 I’m currently working on **React.js and Node.js projects**
 - 🌱 I’m currently learning **Next.js and Tailwind CSS**
-- 🧑‍💻 I am knowledgeable in **PHP, Kotlin, Java, HTML, CSS, JavaScript, React.js, Express.js, Node.js**
+- 🧑‍💻 I am knowledgeable in **JavaScript, TypeScript, React.js, Express.js, Node.js, PHP, HTML, CSS, Kotlin**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **web development, API integration, Backend development, CI/CD, and Database management**
 - 📫 How to reach me: **[nitesh@niketgroup.in](mailto:nitesh@niketgroup.in)**
