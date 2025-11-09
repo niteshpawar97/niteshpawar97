@@ -62,9 +62,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://raw.githubusercontent.com/niteshpawar97/niteshpawar97/master/assets/niteshpawar97-Nitesh-Kadve-.png"  height="300" alt="GitHub Stats">
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=niteshpawar97&show_icons=true&theme=radical" alt="Nitesh's GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshpawar97&layout=compact&theme=radical" alt="Nitesh's top languages">
