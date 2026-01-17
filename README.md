@@ -25,9 +25,6 @@
 - 📫 How to reach me: **[niteshpawar97@gmail.com](mailto:niteshpawar97@gmail.com)**
 - ⚡ Fun fact: **I love building scalable backend systems and exploring new technologies**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/niteshpawar97/niteshpawar97/master/assets/niteshpawar97.gif"  height="300" alt="Developer at work">
-</p>
 
 ---
 
