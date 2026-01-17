@@ -8,9 +8,7 @@
   <a href="https://x.com/niteshpawarking"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/niteshpawar97/niteshpawar97/master/assets/nitesh.png" height="300" alt="Developer at work">
-</p>
+
 
 ---
 
@@ -25,6 +23,9 @@
 - 📫 How to reach me: **[niteshpawar97@gmail.com](mailto:niteshpawar97@gmail.com)**
 - ⚡ Fun fact: **I love building scalable backend systems and exploring new technologies**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/niteshpawar97/niteshpawar97/master/assets/niteshpawar97.gif"  height="300" alt="Developer at work">
+</p>
 
 ---
 
